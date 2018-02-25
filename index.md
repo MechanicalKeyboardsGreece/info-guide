@@ -33,6 +33,8 @@
  όπως αναφέρεται στην [σελίδα των ΕΛΤΑ](http://www.elta.gr/el-gr/%CE%B9%CE%B4%CE%B9%CF%8E%CF%84%CE%B5%CF%82/%CE%B1%CE%BB%CE%BB%CE%B7%CE%BB%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CE%B4%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/%CE%B5%CE%BA%CF%84%CE%B5%CE%BB%CF%89%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82.aspx).
 
 ## Online & μη καταστήματα στην Ελλάδα
+Because paying for shipping sucks.
+
 | Κατάστημα       | Σύνδεσμος               | Σχόλια |
 | :-------------: | :-------------          | :----- |
 | Skroutz         | https://www.skroutz.gr/ | Δημοφιλέστατο shop aggregator που συλλέγει τιμές για προϊόντα τεχνολογίας και μη απο *πολλά* καταστήματα στην Ελλάδα |

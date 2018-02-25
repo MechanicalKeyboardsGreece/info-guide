@@ -1,7 +1,7 @@
-# Info Thread v. 0.4
+# Mechanical Keyboards Greece - Info Guide v. 0.4
+Καλωσήρθατε!
 
 ## #WIP
-Καλωσήρθατε!
 
 <details>
   <summary>

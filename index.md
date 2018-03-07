@@ -38,37 +38,37 @@ Because paying for shipping sucks.
 
 | Κατάστημα       | Σύνδεσμος                 | Σχόλια |
 | :-------------: | :-------------            | :----- |
-| Skroutz         | https://www.skroutz.gr/   | Δημοφιλέστατο shop aggregator που συλλέγει τιμές για προϊόντα τεχνολογίας και μη απο *πολλά* καταστήματα στην Ελλάδα |
-| Bestprice       | https://www.bestprice.gr/ | Άλλο ένα site σύγκρισης τιμών. Περιλαμβάνει ορισμένα καταστήματα που δεν υπάρχουν στο skroutz, όπως και το skroutz έχει κάποια που δεν είναι εδώ.
+| Skroutz         | <https://www.skroutz.gr/>   | Δημοφιλέστατο shop aggregator που συλλέγει τιμές για προϊόντα τεχνολογίας και μη απο *πολλά* καταστήματα στην Ελλάδα |
+| Bestprice       | <https://www.bestprice.gr/> | Άλλο ένα site σύγκρισης τιμών. Περιλαμβάνει ορισμένα καταστήματα που δεν υπάρχουν στο skroutz, όπως και το skroutz έχει κάποια που δεν είναι εδώ.
 
 ## Ευρωπαϊκά eshops με αρκετά λογικά μεταφορικά
 Τα online καταστήματα εκτός Ελλάδος θα χρεώσουν κάποια τιμή για μεταφορικά έξοδα (shipping) όμως σε καμία περίπτωση δεν θα επιβάλλουν έξτρα φόρους ή τέλη εισαγωγής. Η ταχύτητα άφιξης είναι επίσης ταχύτερη απο vendors σε Αμερική/Ασία όχι μόνο λόγω γεωγραφικής διαφοράς αλλά και λόγω μη συμμετοχής του τελωνείου στην διαδικασία.
 
 | Κατάστημα            | Σύνδεσμος                       | Σχόλια |
 | :------------------: | :-------------                  | :----- |
-| Amazon               | https://www.amazon.co.uk/ *(+ .de, .fr, .it, .nl, .es)* | Popular models like Vortex, iKBC, Filco, Matias, CoolerMaster, Qisan, Tesoro, Das, Anne Pro, etc. Check also the Amazon price comparison sites: (https://uk.camelcamelcamel.com/, https://de.camelcamelcamel.com/, https://it.camelcamelcamel.com/, https://es.camelcamelcamel.com/, https://fr.camelcamelcamel.com/) |
-| Candykeys            | https://www.candykeys.com/      | European Store selling Vortex, Leopold, KBP, Anne Pro keyboards, keycap sets and components. (ISO + ANSI) Based in Germany, ships to EU. |
-| Caps-Unlocked        | https://caps-unlocked.com/      | Πληκτρολόγια, keycaps, κομμάτια αλλά και Group Buys |
-| CCLonline            | https://www.cclonline.com/      | Ducky, Coolermaster and others, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω τον 50 £* |
-| falba.tech           | https://falba.tech/             | Custom wooden bamboo cases, and some acrylic and carbon ones. Switch packs (65 browns at 48EUR). Other parts for the GH60, Atreus, ErgoDox. Also Microcontrollers, diodes, leds etc. |
-| GetDigital           | https://www.getdigital.de/      | Fast shipping, decent prices. Offers Das, Ducky, Filco, Matias keyboards and some keycaps |
-| mechboards.co.uk     | https://mechboards.co.uk/       | Switches, Keycaps, Cases, Plates, DIY Kits, parts and GBs |
-| mechbox.co.uk        | https://www.mechbox.co.uk/      | Keycaps, parts, tools, **many switches** including customs (MOD, Zealios, Aristotles etc.) as well as tester kits. |
-| MechSupply           | http://www.mechsupply.co.uk/    | Keycaps και kits για ISO-UK layouts. Plates, switches και Group buys επίσης. |
-| Mind Factory         | https://www.mindfactory.de      | Cherry MX πληκτρολόγια, <br/>**32€ shipping** |
-| MyKeyboard.eu        | https://mykeyboard.eu/          | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>**22€ shipping** για Ελλάδα |
-| Overclockers.        | https://www.overclockers.co.uk/peripherals/keyboards | KBC, Vortex, Filco, Ducky, Das, Cougar, CoolerMaster |
-| SkinFlint            | https://skinflint.co.uk/        | Price comparison site which has some nice filtering options per switch type etc. Searches for offers in UK, Germany, Poland and Austria |
-| The Keyboard company | http://www.keyboardco.com/      | Ενδιαφέροντα πληκτρολόγια της Filco, Matias & IBM/Unicomp. Εργονομικές επιλογές επίσης.
+| Amazon               | <https://www.amazon.co.uk/> *(+ .de, .fr, .it, .nl, .es)* | Popular models like Vortex, iKBC, Filco, Matias, CoolerMaster, Qisan, Tesoro, Das, Anne Pro, etc. Check also the Amazon price comparison sites: (https://uk.camelcamelcamel.com/, https://de.camelcamelcamel.com/, https://it.camelcamelcamel.com/, https://es.camelcamelcamel.com/, https://fr.camelcamelcamel.com/) |
+| Candykeys            | <https://www.candykeys.com/>      | European Store selling Vortex, Leopold, KBP, Anne Pro keyboards, keycap sets and components. (ISO + ANSI) Based in Germany, ships to EU. |
+| Caps-Unlocked        | <https://caps-unlocked.com/>      | Πληκτρολόγια, keycaps, κομμάτια αλλά και Group Buys |
+| CCLonline            | <https://www.cclonline.com/>      | Ducky, Coolermaster and others, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω τον 50 £* |
+| falba.tech           | <https://falba.tech/>             | Custom wooden bamboo cases, and some acrylic and carbon ones. Switch packs (65 browns at 48EUR). Other parts for the GH60, Atreus, ErgoDox. Also Microcontrollers, diodes, leds etc. |
+| GetDigital           | <https://www.getdigital.de/>      | Fast shipping, decent prices. Offers Das, Ducky, Filco, Matias keyboards and some keycaps |
+| mechboards.co.uk     | <https://mechboards.co.uk/>       | Switches, Keycaps, Cases, Plates, DIY Kits, parts and GBs |
+| mechbox.co.uk        | <https://www.mechbox.co.uk/>      | Keycaps, parts, tools, **many switches** including customs (MOD, Zealios, Aristotles etc.) as well as tester kits. |
+| MechSupply           | <http://www.mechsupply.co.uk/>    | Keycaps και kits για ISO-UK layouts. Plates, switches και Group buys επίσης. |
+| Mind Factory         | <https://www.mindfactory.de/>     | Cherry MX πληκτρολόγια, <br/>**32€ shipping** |
+| MyKeyboard.eu        | <https://mykeyboard.eu/>          | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>**22€ shipping** για Ελλάδα |
+| Overclockers.        | <https://www.overclockers.co.uk/peripherals/keyboards> | KBC, Vortex, Filco, Ducky, Das, Cougar, CoolerMaster |
+| SkinFlint            | <https://skinflint.co.uk/>        | Price comparison site which has some nice filtering options per switch type etc. Searches for offers in UK, Germany, Poland and Austria |
+| The Keyboard company | <http://www.keyboardco.com/>      | Ενδιαφέροντα πληκτρολόγια της Filco, Matias & IBM/Unicomp. Εργονομικές επιλογές επίσης.
 
 ## Ασιατικά eshops & Αγορά απο χώρες εκτός Ευρώπης
 ***Προσοχή:*** Παρά τις αμέτρητες φτηνές επιλογές, αγορές ποσού 20€+ είναι πολύ πιθανό να επιφέρουν έξτρα χρεώσεις. Προτείνεται να διαβάσει κανείς [εδώ για τα νέα μέτρα](https://www.angroid.gr/android-tutorials/apostoles-apo-kina-ke-telonio-nea-provlimata-nees-lysis) που ισχύουν απο το καλοκαίρι του 2017, καθώς και την επίσημη σελίδα των **ΕΛΤΑ** για τον εκτελωνισμό [ΕΔΩ](http://www.elta.gr/el-gr/%CE%B9%CE%B4%CE%B9%CF%8E%CF%84%CE%B5%CF%82/%CE%B1%CE%BB%CE%BB%CE%B7%CE%BB%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CE%B4%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/%CE%B5%CE%BA%CF%84%CE%B5%CE%BB%CF%89%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82.aspx). Ακόμη δείτε πληροφορίες για τα **[τέλη/δασμούς εισαγωγής](http://www.elta.gr/Portals/0/pdf/nea_eidika_telh_ektelwnismou_09_08_2017.pdf).**
 
 | Κατάστημα       | Σύνδεσμος                  | Σχόλια |
 | :-------------: | :-------------             | :----- |
-| Aliexpress      | https://www.aliexpress.com | Απο τα μεγαλύτερα eshops παγκοσμίως, με πολύ εύκολο refunding και σχεδόν κανένα πρόβλημα με γλώσσα. |
-| Banggood        | https://www.banggood.com/  | Λιγότερο ποιοτικές επιλογές, αλλά σίγουρα valid. Συχνά έχει coupons για το δημοφιλές Anne Pro |
-| GearBest        | https://www.gearbest.com/  |  |
+| Aliexpress      | <https://www.aliexpress.com/> | Απο τα μεγαλύτερα eshops παγκοσμίως, με πολύ εύκολο refunding και σχεδόν κανένα πρόβλημα με γλώσσα. |
+| Banggood        | <https://www.banggood.com/>  | Λιγότερο ποιοτικές επιλογές, αλλά σίγουρα valid. Συχνά έχει coupons για το δημοφιλές Anne Pro |
+| GearBest        | <https://www.gearbest.com/>  |  |
 
 # Switches
 ## Γενικά

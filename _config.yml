@@ -3,8 +3,8 @@ description: Οδηγός γενικών πληροφοριών για το face
 # theme: jekyll-theme-midnight
 plugins:
   - jekyll-remote-theme
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://mechanicalkeyboardsgreece.github.io"
+# baseurl: ""
+# url: "https://mechanicalkeyboardsgreece.github.io"

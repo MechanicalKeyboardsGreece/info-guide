@@ -8,5 +8,5 @@ remote_theme: "rohanchandra/type-theme"
 
 # SITE CONFIGURATION
 baseurl: "/info-guide"
-url: "https://mechanicalkeyboardsgreece..github.io"
+url: "https://mechanicalkeyboardsgreece.github.io"
 layout: page

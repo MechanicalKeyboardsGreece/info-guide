@@ -1,9 +1,9 @@
 title: Mechanical Keyboards Greece - Info Guide ver. 0.5.5
 description: Οδηγός γενικών πληροφοριών για το facebook group "Mechanical Keyboards Greece"
-# theme: jekyll-theme-midnight
-plugins:
-  - jekyll-remote-theme
-remote_theme: rohanchandra/type-theme
+theme: jekyll-theme-midnight
+# plugins:
+#   - jekyll-remote-theme
+# remote_theme: rohanchandra/type-theme
 
 # SITE CONFIGURATION
 baseurl: ""

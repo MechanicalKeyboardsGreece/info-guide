@@ -4,7 +4,3 @@ theme: jekyll-theme-midnight
 # plugins:
 #   - jekyll-remote-theme
 # remote_theme: rohanchandra/type-theme
-
-# SITE CONFIGURATION
-baseurl: ""
-url: "https://mechanicalkeyboardsgreece.github.io"

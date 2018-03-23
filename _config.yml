@@ -1,12 +1,18 @@
-title: Mechanical Keyboards Greece - Info Guide ver. 0.5.5
-description: Οδηγός γενικών πληροφοριών για το facebook group "Mechanical Keyboards Greece"
+---
+layout: home
+---
+
 # theme: jekyll-theme-midnight
 plugins:
   - jekyll-remote-theme
-remote_theme: "rohanchandra/type-theme"
-
-
-# SITE CONFIGURATION
-baseurl: "/info-guide"
-url: "https://mechanicalkeyboardsgreece.github.io"
-layout: page
+remote_theme: "mmistakes/minimal-mistakes@4.11.1"
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+# Site Settings
+# locale                   : "en-US"
+title: Mechanical Keyboards Greece - Info Guide ver. 0.5.5
+# title_separator: "-"
+# name: "Your Name"
+description: Οδηγός γενικών πληροφοριών για το facebook group "Mechanical Keyboards Greece"
+url: "https://mechanicalkeyboardsgreece.github.io/info-guide"
+repository: "MechanicalKeyboardsGreece/info-guide"
+# breadcrumbs: false # true, false (default)

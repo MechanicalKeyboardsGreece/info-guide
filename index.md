@@ -51,6 +51,7 @@ Because paying for shipping sucks.
 | Candykeys            | <https://www.candykeys.com/>      | European Store selling Vortex, Leopold, KBP, Anne Pro keyboards, keycap sets and components. (ISO + ANSI) Based in Germany, ships to EU. |
 | Caps-Unlocked        | <https://caps-unlocked.com/>      | Πληκτρολόγια, keycaps, κομμάτια αλλά και Group Buys |
 | CCLonline            | <https://www.cclonline.com/>      | Ducky, Coolermaster and others, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω τον 50 £* |
+| Cool Cable           | <https://www.coolcable.co.uk/>    | Custom cables από UK
 | falba.tech           | <https://falba.tech/>             | Custom wooden bamboo cases, and some acrylic and carbon ones. Switch packs (65 browns at 48EUR). Other parts for the GH60, Atreus, ErgoDox. Also Microcontrollers, diodes, leds etc. |
 | GetDigital           | <https://www.getdigital.de/>      | Fast shipping, decent prices. Offers Das, Ducky, Filco, Matias keyboards and some keycaps |
 | mechboards.co.uk     | <https://mechboards.co.uk/>       | Switches, Keycaps, Cases, Plates, DIY Kits, parts and GBs |

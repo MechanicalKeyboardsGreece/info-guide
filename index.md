@@ -28,7 +28,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Εισαγωγή
-Καλωσήρθατε! Το παρόν αποτελεί τον γενικό οδηγό για τα mechanical keyboards στοχευμένο στην Ελληνική κοινότητα. Μπορεί κανείς να μας βρεί στο [Facebook group](https://www.facebook.com/groups/892871154152252/) μας, καθώς και στον MKG Discord Server >[Invite link](https://discord.gg/rDXezQc)<.
+Καλωσήρθατε! Το παρόν αποτελεί τον γενικό οδηγό για τα mechanical keyboards στοχευμένο στην Ελληνική κοινότητα. Μπορεί κανείς να μας βρεί στο *[Facebook group](https://www.facebook.com/groups/892871154152252/)* μας, καθώς και στον MKG Discord Server (*[Invite link](https://discord.gg/rDXezQc)*).
 
 # Αγορά μηχανικού πληκτρολογίου και parts/accessories
 Για αρχή υπάρχει το [Greek shopping guide](https://www.reddit.com/r/MechanicalKeyboards/wiki/greek_shopping_guide) στην wiki του reddit community [/r/MechanicalKeyboards/](https://www.reddit.com/r/MechanicalKeyboards/).
@@ -74,9 +74,20 @@ Because paying for shipping sucks.
 
 # Switches
 
+<table width="100%">
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Membrane_keyboard.jpg" title="Πληκτρολόγιο μεμβράνης" alt="Image cannot be displayed" height="300vh"/>Membrane <i>(Credits: wikimedia.org)</i></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Cherry_MX_--_opened%2C_2.jpg" title="Μηχανικός διακόπτης" alt="Image cannot be displayed" height="300vh"/>Mechanical switch <i>(Credits: wikimedia.org)</i></td>
+  </tr>
+</table>
+
+Η βασική αξία των μηχανικών πληκτρολογίων είναι το πώς λειτουργούν τα πλήκτρα τους. Ένα τυπικό πληκτρολόγιο χρησιμοποιεί ένα φύλλο μεμβράνης το οποίο πιέζεται και στην επαφή με την πλακέτα (PCB) του πληκτρολογίου κλείνει το κύκλωμα για να σταλθεί σήμα οτι πατήθηκε το κουμπί.
+
 <details>
   <summary>
-    <i>*Κλίκ εδώ* για απλό, συνοπτικό οδηγό για τα βασικά είδη switches σε μία εικόνα</i>
+    Εδώ μπορείτε να δείτε έναν απλό, συνοπτικό οδηγό για ορισμένα βασικά-και-μη switches σε μία εικόνα.
+    <br>
+    <i>[Κλίκ για εμφάνιση]</i>
   </summary>
   <img src="http://bit.ly/2clOVnG">
 </details>  
@@ -91,9 +102,9 @@ Because paying for shipping sucks.
 
 ## Κατηγορίες/τύποι
 
-- Linear: //TODO
-- Clicky: //TODO
-- Tactile: //TODO
+- Linear: #WIP
+- Clicky: #WIP
+- Tactile: #WIP
 
 ## Κατασκευαστές Switches
 
@@ -108,8 +119,7 @@ Because paying for shipping sucks.
 Μαζί με τα Gateron θεωρούνται τα πιο κοντά ποιοτικά σε Cherry και είναι σαφώς πιο φτηνά. H ποιότητα κατασκευής τους είναι κάπως κατώτερη αλλά αν το budget είναι περιοριστικό είναι semi-decent επιλογές.
 
 ### Kailh
-//TODO
-[Εδώ](http://dimlight.org/number9/switches.html) μπορείτε να βρείτε μία πολύ καλή λίστα με αυτά τα νεότερα switch και τις ιδιότητές τους.
+<#WIF info>.[Εδώ](http://dimlight.org/number9/switches.html) μπορείτε να βρείτε μία πολύ καλή λίστα με αυτά τα νεότερα switch και τις ιδιότητές τους.
 
 ### Zealios/Tealios
 Custom-made switches υψηλής ποιότητας που φτιάχνονται απο τον **/u/ZealPC** στον Καναδά. Είναι μία απόπειρα κατασκευής ενός ωραίου tactile switches με διαφανές housing για RGB backlight, pre-lubricated ελατήρια σε διάφορες σκληρότητες και τιμή που δυστυχώς μαρτυρά όλη αυτήν την προσπάθεια.
@@ -154,7 +164,7 @@ Custom-made switches υψηλής ποιότητας που φτιάχνοντα
 - Profile: To σχήμα των caps. To "κλασσικό" σχήμα που έχουμε συνηθίσει σε παρα λέγεται συνήθως [OEM](http://res.freestockphotos.biz/pictures/1/1770-closeup-of-a-white-keyboard-pv.jpg) 
 
 ## Υλικό
-Τα **ABS** και **PBT** πλαστικά είναι τα πιο κοινά με τα δεύτερα να έχουνε πιο "rough/textured" επιφάνεια και να φθείρονται λιγότερο ενώ τα πρώτα είναι το κλασσικό πλαστικό που έχουνε τα περισσότερα keycaps σε όλα τα πληκτρολόγια. Υπάρχουν επίσης μεταλλικά απο κράμα με Zinc που λένε οτι χαλάνε όμως γρήγορα και Aluminum που θεωρούνται αρκετά οκ για μεταλλικά. Να σημειωθεί όμως οτι λόγω υλικού, τα PBT είναι πολύ περιοριστικά σε legends(γράμματα) καθώς με την παρούσα τεχνολογία δεν μπορεί εύκολα να τυπωθεί legend ανοιχτού χρώματος σε σκούρο keycap.
+Τα **ABS** και **PBT** πλαστικά είναι τα πιο κοινά με τα δεύτερα να έχουνε πιο "rough/textured" επιφάνεια και να φθείρονται λιγότερο ενώ τα πρώτα είναι το κλασσικό, πιο μαλακό πλαστικό που έχουνε τα περισσότερα keycaps σε όλα τα πληκτρολόγια. Υπάρχουν επίσης μεταλλικά απο κράμα με Ψευδάργυρου, που λένε οτι χαλάνε φθείρονται γρήγορα όμως, και **αλουμινίου** που θεωρούνται αρκετά καλά (βλ. *RAMA* keycaps). Να σημειωθεί όμως οτι λόγω υλικού, τα PBT είναι πολύ περιοριστικά σε legends(γράμματα) καθώς με την παρούσα τεχνολογία δεν μπορεί εύκολα να τυπωθεί legend ανοιχτού χρώματος σε σκούρο keycap.
 
 ## Profile/Σχήμα
 Πέραν του κλασσικού OEM υπάρχει και το το **Cherry** profile που είναι λίγο χαμηλότερο καθώς και τα ιδιαίτερα σφαιρικά DSA/SA profiles. Τα **DSA** είναι ίδια σε όλες τις σειρές (uniform) όπως και αυτά ενός laptop, ενώ τα SA είναι πολύ ψηλά και συνήθως sculpted όπως είναι τα κλασσικά OEM, αλλά με σφαιρικό σχήμα που θυμίζει γραφομηχανή κατα έναν τρόπο. (επίσης τα πιο ακριβά και δύσκολο να βρεί κανείς συνήθως)
@@ -162,8 +172,12 @@ Custom-made switches υψηλής ποιότητας που φτιάχνοντα
 
 # Keyboard Case
 *Case* είναι ουσιαστικά το περίβλημα μέσα στο οποίο βρίσκεται το pcb και τα εσωτερικά καλώδια και CPU ενός μηχανικού πληκτρολογίου.
-- **Υλικό**: Η κλασσική θήκη είναι φτιαγμένη απο ABS πλαστικό αλλά υπάρχουν πολλές διαφορετικές "ποιότητες" σε αυτήν την κατηγορία καθώς πολλές εταιρείες έχουνε πιο παχύ πλαστικό ή πιο προσέγμένο finish στις θήκες τους που δίνουν σε κάθε πληκτρολόγιο διαφορετική αίσθηση και ποιότητα κατασκευής, που συχνά φαίνεται και απο το συνολικό βάρος.
+- **Υλικό**: Η κλασσική θήκη είναι φτιαγμένη απο **πλαστικό** αλλά υπάρχουν πολλές διαφορετικές "ποιότητες" σε αυτήν την κατηγορία καθώς πολλές εταιρείες έχουνε πιο παχύ υλικό ή πιο προσέγμένο finish στις θήκες τους που δίνουν σε κάθε πληκτρολόγιο διαφορετική αίσθηση και ποιότητα κατασκευής, που συχνά φαίνεται και απο το συνολικό βάρος. Υπάρχουν επίσης οι ενδιαφέρουσες ["sandwitch" θήκες](https://cdn.matt3o.com/uploads/2016/01/whitefox-dev-1.jpg) που συνήθως έχουνε ημι-διαφανές ακρυλικό στην μέση, καθώς και οι αρκετά premium απο άποψη κόστος πλήρως αλουμινένιες θήκες σαν την υπέροχη ["5 degrees"](https://ae01.alicdn.com/kf/HTB18pWmaWmgSKJjSsphq6Ay1VXay/fedex-dhl-free-shipping-KBDfans-5-60-keyboard-aluminum-case-gh60-case-fit-gh60-poker-dz60.jpg) από KBDFans.
+- **High/Low-profile**: #WIP
 - **Γωνία**: Θετική γωνία/angle <X μοίρες> έχουμε όταν το πίσω μέρος (F keys row) είναι ανασηκωμένο, κάτι που κάνει ένα πληκτρολόγιο πιο βολικό για casual χρήση ίσως. Παρόλα αυτά θεωρείται πολύ πιο σωστό εργονομικά να μην υπάρχει γωνία (δηλαδή να είναι παράλληλο με το γραφείο το case) και πιο χαμηλά απο τους αγκώνες ώστε τα χέρια να "κρέμονται" απο τους καρπούς επάνω στα πλήκτρα.
 
-  [ISOvsANSI]: http://www.keybotypo.com/wp-content/uploads/2016/09/ISO-vs-ANSI-min.png "ISO vs ANSI standards"
-  [subsetsANSI]: https://i.imgur.com/f00eq7K.jpg "subsets of the ANSI standard"
+
+[ISOvsANSI]: http://www.keybotypo.com/wp-content/uploads/2016/09/ISO-vs-ANSI-min.png "ISO vs ANSI standards"
+[subsetsANSI]: https://i.imgur.com/f00eq7K.jpg "ANSI standard και υποσύνολά του"
+[membraneKeyboard]: https://upload.wikimedia.org/wikipedia/commons/6/6e/Membrane_keyboard.jpg "Πληκτρολόγιο μεμβράνης"
+[mechanicalSwitch]: https://upload.wikimedia.org/wikipedia/commons/4/45/Cherry_MX_--_opened%2C_2.jpg "Μηχανικός διακόπτης"

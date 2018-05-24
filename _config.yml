@@ -6,11 +6,7 @@
 plugins:
   - jekyll-remote-theme
 remote_theme: "mmistakes/minimal-mistakes@4.11.2"
-# remote_theme: "mmistakes/minimal-mistakes@4.11.1"
 minimal_mistakes_skin: "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-
-url: "https://mechanicalkeyboardsgreece.github.io"
-baseurl: "/info-guide"
 
 include: 
   - _pages
@@ -21,17 +17,14 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: home
       author_profile: false
 
 
-repository: "MechanicalKeyboardsGreece/info-guide"
 # Site Settings
+url: "https://mechanicalkeyboardsgreece.github.io"
+baseurl: "/info-guide"
+repository: "MechanicalKeyboardsGreece/info-guide"
 locale: "el-GR"
 title: Mechanical Keyboards Greece - Info Guide ver. 0.5.10
-# title_separator: "-"
-# name: "Your Name"
 description: Οδηγός γενικών πληροφοριών για το facebook group "Mechanical Keyboards Greece"
-# url: "https://mechanicalkeyboardsgreece.github.io/info-guide"
-# repository: "MechanicalKeyboardsGreece/info-guide"
-# breadcrumbs: false # true, false (default)

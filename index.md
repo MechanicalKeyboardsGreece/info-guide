@@ -29,10 +29,12 @@
 
 # Εισαγωγή
 Καλωσήρθατε! Το παρόν αποτελεί τον γενικό οδηγό για τα mechanical keyboards στοχευμένο στην Ελληνική κοινότητα. Μπορεί κανείς να μας βρεί στο *[Facebook group](https://www.facebook.com/groups/892871154152252/)* μας, καθώς και στον MKG Discord Server (*[Invite link](https://discord.gg/rDXezQc)*).
+Στόχος του παρόν οδηγού είναι να παρέχει γενικές πληροφορίες για τα μηχανικά πληκτρολόγια, καθώς και συμβολουλες για αγορά ή custom κατασκευή ενός, στοχευμένα για τους Έλληνες χρήστες.
 
 # Αγορά μηχανικού πληκτρολογίου και parts/accessories
 Για αρχή υπάρχει το [Greek shopping guide](https://www.reddit.com/r/MechanicalKeyboards/wiki/greek_shopping_guide) στην wiki του reddit community [/r/MechanicalKeyboards/](https://www.reddit.com/r/MechanicalKeyboards/).
-Είναι σημαντικό να σημειώσει κανείς πως για αγορές που γίνονται ship απο εκτός Ευρωπαϊκής Ένωσης υπάρχουν συχνά **τέλη/δασμοί εισαγωγής** για τα οποίο μπορείτε να διαβάσετε στην [σχετική ενότητα](#%CE%B1%CF%83%CE%B9%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-eshops--%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%B1%CF%80%CE%BF-%CF%87%CF%8E%CF%81%CE%B5%CF%82-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82).
+Είναι σημαντικό να σημειώσει κανείς πως για αγορές που γίνονται ship απο εκτός Ευρωπαϊκής Ένωσης υπάρχουν συχνά **τέλη/δασμοί εισαγωγής** για τα οποίο μπορείτε να διαβάσετε στην [σχετική ενότητα](#%CE%B1%CF%83%CE%B9%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-eshops--%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%B1%CF%80%CE%BF-%CF%87%CF%8E%CF%81%CE%B5%CF%82-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82). Όπως φαντάζεται κανείς, υπάρχουνε δεκάδες vendors που διαθέτουν μηχανικά πληκτρολόγια και συχνά μάλιστα έχουνε **μόνο** αυτά καθώς και πρόσβαση σε προϊόντα λιγότερο mainstream, αλλά υψηλών προδιαγραφών, κατασκευαστών.
+Για μία σύντομη
 
 ## Online & μη καταστήματα στην Ελλάδα
 Because paying for shipping sucks.
@@ -47,21 +49,22 @@ Because paying for shipping sucks.
 
 | Κατάστημα            | Σύνδεσμος                       | Σχόλια |
 | :------------------: | :-------------                  | :----- |
-| Amazon               | <https://www.amazon.co.uk/> *(+ .de, .fr, .it, .nl, .es)* | Popular models like Vortex, iKBC, Filco, Matias, CoolerMaster, Qisan, Tesoro, Das, Anne Pro, etc. Check also the Amazon price comparison sites: (https://uk.camelcamelcamel.com/, https://de.camelcamelcamel.com/, https://it.camelcamelcamel.com/, https://es.camelcamelcamel.com/, https://fr.camelcamelcamel.com/) |
-| Candykeys            | <https://www.candykeys.com/>      | European Store selling Vortex, Leopold, KBP, Anne Pro keyboards, keycap sets and components. (ISO + ANSI) Based in Germany, ships to EU. |
+| Amazon               | <https://www.amazon.co.uk/> *(+ .de, .fr, .it, .nl, .es)* | Παρά την "ανειδίκευτη" φύση του, βρίσκουμε εδώ καλά brands όπως Vortex, iKBC, Filco, Matias, CoolerMaster, Qisan, Tesoro, Das, Anne Pro, κτλ. Επίσης προτείνονται τα εξής sites για σύγκριση τιμών: (https://uk.camelcamelcamel.com/, https://de.camelcamelcamel.com/, https://it.camelcamelcamel.com/, https://es.camelcamelcamel.com/, https://fr.camelcamelcamel.com/) |
+| Candykeys            | <https://www.candykeys.com/>      | Παρέχει πληκτρολόγια Vortex, Leopold, KBP, Anne Pro, keycap sets (ISO + ANSI) και άλλα κομμάτια.  Based in Germany, ships to EU. |
 | Caps-Unlocked        | <https://caps-unlocked.com/>      | Πληκτρολόγια, keycaps, κομμάτια αλλά και Group Buys |
-| CCLonline            | <https://www.cclonline.com/>      | Ducky, Coolermaster and others, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω τον 50 £* |
+| CCLonline            | <https://www.cclonline.com/>      | Ducky, Coolermaster και άλλα, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω τον 50 £* |
 | Cool Cable           | <https://www.coolcable.co.uk/>    | Custom cables από UK
 | falba.tech           | <https://falba.tech/>             | Custom wooden bamboo cases, and some acrylic and carbon ones. Switch packs (65 browns at 48EUR). Other parts for the GH60, Atreus, ErgoDox. Also Microcontrollers, diodes, leds etc. |
-| GetDigital           | <https://www.getdigital.de/>      | Fast shipping, decent prices. Offers Das, Ducky, Filco, Matias keyboards and some keycaps |
+| GetDigital           | <https://www.getdigital.de/>      | Γρήγορο shipping, αξιοπρεπείς τιμές. Παρέχει Das, Ducky, Filco, Matias keyboards καθώς και ορισμένα keycaps |
 | mechboards.co.uk     | <https://mechboards.co.uk/>       | Switches, Keycaps, Cases, Plates, DIY Kits, parts and GBs |
-| mechbox.co.uk        | <https://www.mechbox.co.uk/>      | Keycaps, parts, tools, **many switches** including customs (MOD, Zealios, Aristotles etc.) as well as tester kits. |
+| mechbox.co.uk        | <https://www.mechbox.co.uk/>      | Keycaps, κομμάτια, εργαλεία, **πολλά switches** συμπεριλαμβανομένων κάποιων λιγότερο κοινών (MOD, Zealios, Aristotles etc.) καθώς βάσεις για tester kits. |
 | MechSupply           | <http://www.mechsupply.co.uk/>    | Keycaps και kits για ISO-UK layouts. Plates, switches και Group buys επίσης. |
-| Mind Factory         | <https://www.mindfactory.de/>     | Cherry MX πληκτρολόγια, <br/>**32€ shipping** |
-| MyKeyboard.eu        | <https://mykeyboard.eu/>          | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>**22€ shipping** για Ελλάδα |
-| Overclockers.        | <https://www.overclockers.co.uk/peripherals/keyboards> | KBC, Vortex, Filco, Ducky, Das, Cougar, CoolerMaster |
-| SkinFlint            | <https://skinflint.co.uk/>        | Price comparison site which has some nice filtering options per switch type etc. Searches for offers in UK, Germany, Poland and Austria |
+| Mind Factory         | <https://www.mindfactory.de/>     | Cherry MX πληκτρολόγια, <br/>*32€ shipping* |
+| MyKeyboard.eu        | <https://mykeyboard.eu/>          | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>22€ shipping* για Ελλάδα |
+| Overclockers.        | <https://www.overclockers.co.uk/peripherals/keyboards>| KBC, Vortex, Filco, Ducky, Das, Cougar, CoolerMaster |
+| SkinFlint            | <https://skinflint.co.uk/>        | Site σύγκρισης τιμών το οποίο έχει μερικές καλές επιλογές φίλτρων ανά είδος switch κ.α.. Κάνει αναζήτηση σε UK, Γερμανία, Πολωνία & Αυστρία |
 | The Keyboard company | <http://www.keyboardco.com/>      | Ενδιαφέροντα πληκτρολόγια της Filco, Matias & IBM/Unicomp. Εργονομικές επιλογές επίσης.
+| 
 
 ## Ασιατικά eshops & Αγορά απο χώρες εκτός Ευρώπης
 ***Προσοχή:*** Παρά τις αμέτρητες φτηνές επιλογές, αγορές ποσού 20€+ είναι πολύ πιθανό να επιφέρουν έξτρα χρεώσεις. Προτείνεται να διαβάσει κανείς [εδώ για τα νέα μέτρα](https://www.angroid.gr/android-tutorials/apostoles-apo-kina-ke-telonio-nea-provlimata-nees-lysis) που ισχύουν απο το καλοκαίρι του 2017, καθώς και την επίσημη σελίδα των **ΕΛΤΑ** για τον εκτελωνισμό [ΕΔΩ](http://www.elta.gr/el-gr/%CE%B9%CE%B4%CE%B9%CF%8E%CF%84%CE%B5%CF%82/%CE%B1%CE%BB%CE%BB%CE%B7%CE%BB%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CE%B4%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/%CE%B5%CE%BA%CF%84%CE%B5%CE%BB%CF%89%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82.aspx). Ακόμη δείτε πληροφορίες για τα **[τέλη/δασμούς εισαγωγής](http://www.elta.gr/Portals/0/pdf/nea_eidika_telh_ektelwnismou_09_08_2017.pdf).**
@@ -90,21 +93,29 @@ Because paying for shipping sucks.
     <i>[Κλίκ για εμφάνιση]</i>
   </summary>
   <img src="http://bit.ly/2clOVnG">
-</details>  
+</details>
 
 ## Γενικά
 
 Τα switches έχουνε τις εξής ιδιότητες που αξίζει να γνωρίζεις κανείς:
 - **Brand**: Πολλαπλοί κατασκευαστές, χωρίς να υπάρχει κάποιος αντικειμενικά καλύτερος. Ανάλυσή τους παρακάτω.
-- **Βάρος/Σκληρότητα**: Μετριέται σε grams (πχ 45g Cherry MX Browns) τα οποία είναι το βάρος που χρειάζεται για την ενεργοποίηση (actuation) ή για να φτάσει τέρμα κάτω το πλήκτρο (ναι οι μισοί το μετράνε έτσι και οι άλλοι αλλιώς...)
-- **Stem**: Το πάνω μέρος που κουμπώνουν τα keycaps. Τα Cherry MX και όλα τα κοντινά σε αυτά έχουν σαν σχήμα τον κλασσικό `+` σταυρό, ενώ τα Topre έχουνε κυκλικό `O` Stem, αν και κάποιες εκδοχές τους έχουνε υβριδικό `(+)` stem και είναι συμβατές με caps για τύπου MX (βλέπε το, πλέον σπάνιο, Coolermaster Novatouch).
-- **Housing**: // TODO
+- **Βάρος/Σκληρότητα**: Μετριέται σε grams (πχ 45g Cherry MX Browns) τα οποία είναι το βάρος που χρειάζεται για την ενεργοποίηση (actuation) ή για να φτάσει τέρμα κάτω το πλήκτρο (ναι οι μισοί το μετράνε έτσι και οι άλλοι αλλιώς...). Φυσικά σχεδόν αποκλειστικός παράγωντας που το επ
+- **Stem**: Το πάνω μέρος που κουμπώνουν τα keycaps. Τα Cherry MX και όλα τα κοντινά clones σε αυτά έχουν σαν σχήμα τον κλασσικό `+` σταυρό, ενώ τα Topre έχουνε κυκλικό `O` Stem, αν και κάποιες εκδοχές τους έχουνε υβριδικό `(+)` stem και είναι συμβατές με keycaps για τύπου MX (βλέπε το, πλέον σπάνιο, Coolermaster Novatouch).
+- **Housing**: Το πλαστικό "περίβλημα" ουσιαστικά μέσα στο οποίο βρίσκεται ο μηχανισμός με το ελατήριο
 
 ## Κατηγορίες/τύποι
 
-- Linear: #WIP
-- Clicky: #WIP
-- Tactile: #WIP
+Όσες δεκάδες μηχανικοί διακόπτες και να υπάρχουν, πρακτικά όλοι τους μπορούν να τοποθετηθούν σε μία από τις ακόλουθες κατηγορίες, [με εξαίρεση ίσως τα υβριδικά Topre](#topre).
+
+- **Linear**: , τα linear switches είναι αρκετά χαρακτηριστικά καθώς, όπως υποδηλώνει το όνομά τους, έχουνε μία γραμμική αύξηση αντίστασης/δύναμης καθώς πατιούνται. Πρακτικά νιώθει κανείς λες και πιέζει ένα ελατήριο, χωρίς κάποιο feedback κατά την ενεργοποίηση/actuation του switch. Αυτό για κάποιους κάνει δύσκολο το γράψιμο, άλλα άλλοι τα προτιμούν γιατί δεν "επεμβαίνουν" στο πάτημα και βρίσκουν πιο εύκολο να τα πατάνε γρήγορα, με αρκετή αμεσότητα. Ειδικά όταν είναι smooth και ενδεχομένως lubed είναι για πολλούς ευχάριστη εμπειρία.
+  + Ενδεικτικό switch: **Cherry MX Red**
+  + [Force chart](https://input.club/the-comparative-guide-to-mechanical-switches/linear/cherry-mx-red/)
+- **Clicky**: #WIP
+  + Ενδεικτικό switch: **Cherry MX Brown**
+  + [Force chart](https://input.club/the-comparative-guide-to-mechanical-switches/tactile-clicky/cherry-mx-blue/)
+- **Tactile**: #WIP
+  + Ενδεικτικό switch: **Cherry MX Blue**
+  + [Force chart](https://input.club/the-comparative-guide-to-mechanical-switches/tactile/cherry-mx-brown/)
 
 ## Κατασκευαστές Switches
 
@@ -148,7 +159,7 @@ Custom-made switches υψηλής ποιότητας που φτιάχνοντα
 
 ![Image cannot be displayed][subsetsANSI]
 Δημοφιλείς παραλλαγές των 3 αυτών layouts λόγω των πλεονεκτημάτων τους (παρά τα non-standard keycaps που έχουν συχνά) είναι τα εξής:
-- ["ΤΚ"](https://goo.gl/T22H6o) : Έγινε γνωστό κυρίως από τα πληκτρολόγια της Coolermaster και αντί για arrow/navigation cluster έχουμε ένα numpad μπορεί να κάνει και τα δύο, στο μέγεθος ενός 80%.
+- ["ΤΚ"](https://goo.gl/T22H6o) : Έγινε γνωστό κυρίως από τα πληκτρολόγια της Coolermaster (Masterkeys Pro M) και αντί για το arrow/navigation cluster έχουμε ένα numpad που μπορεί να κάνει και τα δύο (μέσω κάποιου toggle shortcut), στο μέγεθος ενός 80%.
 - ["66%"](https://goo.gl/4Q4vRB) : Γνωστό κυρίως απο τα δημοφιλή **Leopold660** και **Clueboard**, έχει arrows και μοναδικό non-standard κουμπί στις τελευταίες του εκδόσεις είναι το δεξί shift.
 - ["68%"](https://goo.gl/djMjo2) : Παραλλαγή του παραπάνω, φτιαγμένη με ένα έξτρα column που όμως του επιτρέπει να έχει *όλα* του τα κουμπιά σε standard μέγεθος.
 - ["75%"](https://goo.gl/E9MZdn) : Ένα πολύ συμπυκνωμένο και "πρακτικό" layout για όσους δεν χρησιμοποιούν numpad, αλλά με άμεση πρόσβαση σε F keys.
@@ -159,16 +170,16 @@ Custom-made switches υψηλής ποιότητας που φτιάχνοντα
 Είναι ουσιαστικά τα *κουμπιά/καπάκια* που ουσιαστικά τοποθετούνται πάνω στους μηχανισμούς ώστε να πατιούνται απο τον χρήστη *(αντί να πατάει πάνω στο [+ stem](http://mechanicalkeyboards.com/shop/images/products/large_100_MX1A-E1NN.jpg) σαν μαζοχιστής)*. Πολλοί τα θεωρούν κάπως "δευτερεύον" κομμάτι του keyboard customization αλλά η αλήθεια είναι πως, πέραν της αισθητικής επιλογής, παίζουν σημαντικό ρόλο και στην αίσθηση/εμπειρία χρήσης.
 Είναι σημαντικό να θυμάται κανείς πως δεν ακολουθούν όλα τα πληκτρολόγια "standard" μεγέθη για τα keycaps και τις αποστάσεις των switches τους οπότε χρειάζεται προσοχή και αξίζει κανείς να δει το [σχετικό section για τα layouts](#%CE%BC%CE%AD%CE%B3%CE%B5%CE%B8%CE%BF%CF%82layout).
 
-Σημαντικές ιδιότητές τους όταν θέλει να τα αλλάξει κανείς είναι:
-- Υλικό: Το υλικό κατασε
-- Profile: To σχήμα των caps. To "κλασσικό" σχήμα που έχουμε συνηθίσει σε παρα λέγεται συνήθως [OEM](http://res.freestockphotos.biz/pictures/1/1770-closeup-of-a-white-keyboard-pv.jpg) 
+Σημαντικές ιδιότητές τους όταν θέλει να τα αλλάξει κανείς είναι το **υλικό** και το **profile** τους.
+- **Υλικό**: #WIP
+- **Profile**: To σχήμα των caps. To "κλασσικό" σχήμα που έχουμε συνηθίσει σε παρα λέγεται συνήθως [OEM](http://res.freestockphotos.biz/pictures/1/1770-closeup-of-a-white-keyboard-pv.jpg) 
 
 ## Υλικό
 Τα **ABS** και **PBT** πλαστικά είναι τα πιο κοινά με τα δεύτερα να έχουνε πιο "rough/textured" επιφάνεια και να φθείρονται λιγότερο ενώ τα πρώτα είναι το κλασσικό, πιο μαλακό πλαστικό που έχουνε τα περισσότερα keycaps σε όλα τα πληκτρολόγια. Υπάρχουν επίσης μεταλλικά απο κράμα με Ψευδάργυρου, που λένε οτι χαλάνε φθείρονται γρήγορα όμως, και **αλουμινίου** που θεωρούνται αρκετά καλά (βλ. *RAMA* keycaps). Να σημειωθεί όμως οτι λόγω υλικού, τα PBT είναι πολύ περιοριστικά σε legends(γράμματα) καθώς με την παρούσα τεχνολογία δεν μπορεί εύκολα να τυπωθεί legend ανοιχτού χρώματος σε σκούρο keycap.
 
 ## Profile/Σχήμα
-Πέραν του κλασσικού OEM υπάρχει και το το **Cherry** profile που είναι λίγο χαμηλότερο καθώς και τα ιδιαίτερα σφαιρικά DSA/SA profiles. Τα **DSA** είναι ίδια σε όλες τις σειρές (uniform) όπως και αυτά ενός laptop, ενώ τα SA είναι πολύ ψηλά και συνήθως sculpted όπως είναι τα κλασσικά OEM, αλλά με σφαιρικό σχήμα που θυμίζει γραφομηχανή κατα έναν τρόπο. (επίσης τα πιο ακριβά και δύσκολο να βρεί κανείς συνήθως)
-Τέλος υπάρχουν και τα **G20** της Logitech που είναι και αυτά uniform σαν τα DSA όμως έχωντας μία απόλυτα flat smooth επιφάνεια που είναι ότι πιο κοντινό σε laptop keycaps μάλλον.
+Πέραν του κλασσικού **[OEM](http://res.freestockphotos.biz/pictures/1/1770-closeup-of-a-white-keyboard-pv.jpg)** υπάρχει και το το **Cherry** profile που είναι ίδιο σχήμα αλλά χαμηλότερο καθώς και τα ιδιαίτερα απο μεριάς εμφάνισης "σφαιρικά" **DSA** και **SA** profiles. Τα **DSA** είναι ίδια σε όλες τις σειρές ("uniform") με παρόμοιο τρόπο όπως αυτά ενός laptop, ενώ τα SA είναι πολύ ψηλά και συνήθως "sculpted" όπως είναι τα κλασσικά OEM, αλλά με σφαιρικό σχήμα που θυμίζει γραφομηχανή κατα έναν τρόπο. (επίσης τα πιο ακριβά και δύσκολο να βρεί κανείς συνήθως)
+Τέλος υπάρχουν και τα **G20** που είναι και αυτά uniform σαν τα DSA όμως έχωντας μία απόλυτα flat smooth επιφάνεια που είναι μάλλον ακόμα πιο κοντά σε laptop keycaps.
 
 # Keyboard Case
 *Case* είναι ουσιαστικά το περίβλημα μέσα στο οποίο βρίσκεται το pcb και τα εσωτερικά καλώδια και CPU ενός μηχανικού πληκτρολογίου.

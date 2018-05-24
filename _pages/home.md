@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Info guide
+title: "Info guide"
 toc: true
 toc_label: "Jekyll TOC"
 toc_icon: "list"

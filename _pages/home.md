@@ -1,7 +1,5 @@
 ---
 layout: single
-classes:
-  - landing
 title: "Info guide"
 toc: true
 toc_label: "Jekyll TOC"

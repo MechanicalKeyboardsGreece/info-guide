@@ -17,7 +17,8 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: home
+      toc: true
+      layout: single
       author_profile: false
 
 

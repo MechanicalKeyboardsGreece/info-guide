@@ -4,6 +4,7 @@
 
 - [Εισαγωγή](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)
 - [Αγορά μηχανικού πληκτρολογίου και parts/accessories](#%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%BF%CF%8D-%CF%80%CE%BB%CE%B7%CE%BA%CF%84%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85-%CE%BA%CE%B1%CE%B9-partsaccessories)
+  - [Γενικές συμβουλές](#%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%AD%CF%82-%CF%83%CF%85%CE%BC%CE%B2%CE%BF%CF%85%CE%BB%CE%AD%CF%82)
   - [Online & μη καταστήματα στην Ελλάδα](#online--%CE%BC%CE%B7-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1)
   - [Ευρωπαϊκά eshops με αρκετά λογικά μεταφορικά](#%CE%B5%CF%85%CF%81%CF%89%CF%80%CE%B1%CF%8A%CE%BA%CE%AC-eshops-%CE%BC%CE%B5-%CE%B1%CF%81%CE%BA%CE%B5%CF%84%CE%AC-%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AC-%CE%BC%CE%B5%CF%84%CE%B1%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%AC)
   - [Ασιατικά eshops & Αγορά απο χώρες εκτός Ευρώπης](#%CE%B1%CF%83%CE%B9%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-eshops--%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%B1%CF%80%CE%BF-%CF%87%CF%8E%CF%81%CE%B5%CF%82-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)
@@ -33,8 +34,13 @@
 
 # Αγορά μηχανικού πληκτρολογίου και parts/accessories
 Για αρχή υπάρχει το [Greek shopping guide](https://www.reddit.com/r/MechanicalKeyboards/wiki/greek_shopping_guide) στην wiki του reddit community [/r/MechanicalKeyboards/](https://www.reddit.com/r/MechanicalKeyboards/).
-Είναι σημαντικό να σημειώσει κανείς πως για αγορές που γίνονται ship απο εκτός Ευρωπαϊκής Ένωσης υπάρχουν συχνά **τέλη/δασμοί εισαγωγής** για τα οποίο μπορείτε να διαβάσετε στην [σχετική ενότητα](#%CE%B1%CF%83%CE%B9%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-eshops--%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%B1%CF%80%CE%BF-%CF%87%CF%8E%CF%81%CE%B5%CF%82-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82). Όπως φαντάζεται κανείς, υπάρχουνε δεκάδες vendors που διαθέτουν μηχανικά πληκτρολόγια και συχνά μάλιστα έχουνε **μόνο** αυτά καθώς και πρόσβαση σε προϊόντα λιγότερο mainstream, αλλά υψηλών προδιαγραφών, κατασκευαστών.
-Για μία σύντομη
+Είναι σημαντικό να σημειώσει κανείς πως για αγορές που γίνονται ship απο εκτός Ευρωπαϊκής Ένωσης υπάρχουν συχνά **τέλη/δασμοί εισαγωγής** για τα οποίο μπορείτε να διαβάσετε στην [σχετική ενότητα](#%CE%B1%CF%83%CE%B9%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-eshops--%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%B1%CF%80%CE%BF-%CF%87%CF%8E%CF%81%CE%B5%CF%82-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82). Όπως φαντάζεται κανείς, υπάρχουνε δεκάδες vendors που διαθέτουν μηχανικά πληκτρολόγια και συχνά μάλιστα έχουνε **μόνο** αυτά καθώς και πρόσβαση σε προϊόντα λιγότερο mainstream, αλλά πολύ "δυνατών", κατασκευαστών.
+
+*Για σύντομες & επιφανειακές συμβουλές για πληκτρολόγιο χωρίς ιδιαίτερες ανάγκες δείτε το αμέσως επόμενο section.* Προχωρώντας πιο κάτω μπορείτε να ανακαλύψετε περισσότερα καταστήματα εντός και εκτός Ελλάδας για πληκτρολόγια αλλά και αξεσουάρ ή κομμάτια για κατασκευή ενός keyboard.
+
+## Γενικές συμβουλές
+
+  #WIP
 
 ## Online & μη καταστήματα στην Ελλάδα
 Because paying for shipping sucks.

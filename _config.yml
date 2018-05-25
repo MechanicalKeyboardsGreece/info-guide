@@ -1,7 +1,3 @@
-# ---
-# layout: home
-# ---
-
 # theme: jekyll-theme-cayman
 plugins:
   - jekyll-remote-theme
@@ -26,5 +22,5 @@ url: "https://mechanicalkeyboardsgreece.github.io"
 baseurl: "/info-guide"
 repository: "MechanicalKeyboardsGreece/info-guide"
 locale: "el-GR"
-title: Mechanical Keyboards Greece - Info Guide ver. 0.5.10
+title: "Mechanical Keyboards Greece"
 description: Οδηγός γενικών πληροφοριών για το facebook group "Mechanical Keyboards Greece"

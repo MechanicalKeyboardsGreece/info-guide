@@ -1,40 +1,11 @@
 ---
 layout: single
-title: "Info guide"
+title: "Info Guide ver. 0.6.0"
 toc: true
-toc_label: "Jekyll TOC"
+toc_label: "Περιεχόμενα"
 toc_icon: "list"
 ---
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Εισαγωγή](#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)
-- [Αγορά μηχανικού πληκτρολογίου και parts/accessories](#%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%BF%CF%8D-%CF%80%CE%BB%CE%B7%CE%BA%CF%84%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85-%CE%BA%CE%B1%CE%B9-partsaccessories)
-  - [Γενικές συμβουλές](#%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%AD%CF%82-%CF%83%CF%85%CE%BC%CE%B2%CE%BF%CF%85%CE%BB%CE%AD%CF%82)
-  - [Online & μη καταστήματα στην Ελλάδα](#online--%CE%BC%CE%B7-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CF%83%CF%84%CE%B7%CE%BD-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1)
-  - [Ευρωπαϊκά eshops με αρκετά λογικά μεταφορικά](#%CE%B5%CF%85%CF%81%CF%89%CF%80%CE%B1%CF%8A%CE%BA%CE%AC-eshops-%CE%BC%CE%B5-%CE%B1%CF%81%CE%BA%CE%B5%CF%84%CE%AC-%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AC-%CE%BC%CE%B5%CF%84%CE%B1%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%AC)
-  - [Ασιατικά eshops & Αγορά απο χώρες εκτός Ευρώπης](#%CE%B1%CF%83%CE%B9%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-eshops--%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%B1%CF%80%CE%BF-%CF%87%CF%8E%CF%81%CE%B5%CF%82-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)
-- [Switches](#switches)
-  - [Γενικά](#%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC)
-  - [Κατηγορίες/τύποι](#%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B5%CF%82%CF%84%CF%8D%CF%80%CE%BF%CE%B9)
-  - [Κατασκευαστές Switches](#%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%B1%CF%83%CF%84%CE%AD%CF%82-switches)
-    - [Cherry MX](#cherry-mx)
-    - [Gateron](#gateron)
-    - [Outemu/Gaote](#outemugaote)
-    - [Kailh](#kailh)
-    - [Zealios/Tealios](#zealiostealios)
-    - [MOD switches](#mod-switches)
-    - [Input Club Hako](#input-club-hako)
-    - [Topre](#topre)
-- [Μέγεθος/Layout](#%CE%BC%CE%AD%CE%B3%CE%B5%CE%B8%CE%BF%CF%82layout)
-- [Keycaps](#keycaps)
-  - [Υλικό](#%CF%85%CE%BB%CE%B9%CE%BA%CF%8C)
-  - [Profile/Σχήμα](#profile%CF%83%CF%87%CE%AE%CE%BC%CE%B1)
-- [Keyboard Case](#keyboard-case)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Εισαγωγή
 Καλωσήρθατε! Το παρόν αποτελεί τον γενικό οδηγό για τα mechanical keyboards στοχευμένο στην Ελληνική κοινότητα. Μπορεί κανείς να μας βρεί στο *[Facebook group](https://www.facebook.com/groups/892871154152252/)* μας, καθώς και στον MKG Discord Server (*[Invite link](https://discord.gg/rDXezQc)*).
@@ -66,7 +37,7 @@ Because paying for shipping sucks.
 | Amazon               | <https://www.amazon.co.uk/> *(+ .de, .fr, .it, .nl, .es)* | Παρά την "ανειδίκευτη" φύση του, βρίσκουμε εδώ καλά brands όπως Vortex, iKBC, Filco, Matias, CoolerMaster, Qisan, Tesoro, Das, Anne Pro, κτλ. Επίσης προτείνονται τα εξής sites για σύγκριση τιμών: (https://uk.camelcamelcamel.com/, https://de.camelcamelcamel.com/, https://it.camelcamelcamel.com/, https://es.camelcamelcamel.com/, https://fr.camelcamelcamel.com/) |
 | Candykeys            | <https://www.candykeys.com/>      | Παρέχει πληκτρολόγια Vortex, Leopold, KBP, Anne Pro, keycap sets (ISO + ANSI) και άλλα κομμάτια.  Based in Germany, ships to EU. |
 | Caps-Unlocked        | <https://caps-unlocked.com/>      | Πληκτρολόγια, keycaps, κομμάτια αλλά και Group Buys |
-| CCLonline            | <https://www.cclonline.com/>      | Ducky, Coolermaster και άλλα, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω τον 50 £* |
+| CCLonline            | <https://www.cclonline.com/>      | Ducky, Coolermaster και άλλα, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω των 50 £* |
 | Cool Cable           | <https://www.coolcable.co.uk/>    | Custom cables από UK
 | falba.tech           | <https://falba.tech/>             | Custom wooden bamboo cases, and some acrylic and carbon ones. Switch packs (65 browns at 48EUR). Other parts for the GH60, Atreus, ErgoDox. Also Microcontrollers, diodes, leds etc. |
 | GetDigital           | <https://www.getdigital.de/>      | Γρήγορο shipping, αξιοπρεπείς τιμές. Παρέχει Das, Ducky, Filco, Matias keyboards καθώς και ορισμένα keycaps |
@@ -74,7 +45,7 @@ Because paying for shipping sucks.
 | mechbox.co.uk        | <https://www.mechbox.co.uk/>      | Keycaps, κομμάτια, εργαλεία, **πολλά switches** συμπεριλαμβανομένων κάποιων λιγότερο κοινών (MOD, Zealios, Aristotles etc.) καθώς βάσεις για tester kits. |
 | MechSupply           | <http://www.mechsupply.co.uk/>    | Keycaps και kits για ISO-UK layouts. Plates, switches και Group buys επίσης. |
 | Mind Factory         | <https://www.mindfactory.de/>     | Cherry MX πληκτρολόγια, <br/>*32€ shipping* |
-| MyKeyboard.eu        | <https://mykeyboard.eu/>          | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>22€ shipping* για Ελλάδα |
+| MyKeyboard.eu        | <https://mykeyboard.eu/>          | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>*22€ shipping* για Ελλάδα |
 | Overclockers.        | <https://www.overclockers.co.uk/peripherals/keyboards>| KBC, Vortex, Filco, Ducky, Das, Cougar, CoolerMaster |
 | SkinFlint            | <https://skinflint.co.uk/>        | Site σύγκρισης τιμών το οποίο έχει μερικές καλές επιλογές φίλτρων ανά είδος switch κ.α.. Κάνει αναζήτηση σε UK, Γερμανία, Πολωνία & Αυστρία |
 | The Keyboard company | <http://www.keyboardco.com/>      | Ενδιαφέροντα πληκτρολόγια της Filco, Matias & IBM/Unicomp. Εργονομικές επιλογές επίσης.
@@ -100,20 +71,21 @@ Because paying for shipping sucks.
 
 Η βασική αξία των μηχανικών πληκτρολογίων είναι το πώς λειτουργούν τα πλήκτρα τους. Ένα τυπικό πληκτρολόγιο χρησιμοποιεί ένα φύλλο μεμβράνης το οποίο πιέζεται και στην επαφή με την πλακέτα (PCB) του πληκτρολογίου κλείνει το κύκλωμα για να σταλθεί σήμα οτι πατήθηκε το κουμπί.
 
-<details>
+<!-- <details>
   <summary>
     Εδώ μπορείτε να δείτε έναν απλό, συνοπτικό οδηγό για ορισμένα βασικά-και-μη switches σε μία εικόνα.
     <br>
     <i>[Κλίκ για εμφάνιση]</i>
   </summary>
   <img src="http://bit.ly/2clOVnG">
-</details>
+</details> -->
+*[Εδώ μπορείτε να δείτε έναν απλό, συνοπτικό οδηγό για ορισμένα βασικά-και-μη switches σε μία εικόνα.](http://bit.ly/2clOVnG)*
 
 ### Γενικά
 
 Τα switches έχουνε τις εξής ιδιότητες που αξίζει να γνωρίζεις κανείς:
 - **Brand**: Πολλαπλοί κατασκευαστές, χωρίς να υπάρχει κάποιος αντικειμενικά καλύτερος. Ανάλυσή τους παρακάτω.
-- **Βάρος/Σκληρότητα**: Μετριέται σε grams (πχ 45g Cherry MX Browns) τα οποία είναι το βάρος που χρειάζεται για την ενεργοποίηση (actuation) ή για να φτάσει τέρμα κάτω το πλήκτρο (ναι οι μισοί το μετράνε έτσι και οι άλλοι αλλιώς...). Φυσικά σχεδόν αποκλειστικός παράγωντας που το επ
+- **Βάρος/Σκληρότητα**: Μετριέται σε grams (πχ 45g Cherry MX Browns) τα οποία είναι το βάρος που χρειάζεται για την ενεργοποίηση (actuation) ή για να φτάσει τέρμα κάτω το πλήκτρο (ναι οι μισοί το μετράνε έτσι και οι άλλοι αλλιώς...). Φυσικά σχεδόν αποκλειστικός παράγοντας που το επηρρεάζει είναι το **ελατήριο** που βρίσκεται από το stem.
 - **Stem**: Το πάνω μέρος που κουμπώνουν τα keycaps. Τα Cherry MX και όλα τα κοντινά clones σε αυτά έχουν σαν σχήμα τον κλασσικό `+` σταυρό, ενώ τα Topre έχουνε κυκλικό `O` Stem, αν και κάποιες εκδοχές τους έχουνε υβριδικό `(+)` stem και είναι συμβατές με keycaps για τύπου MX (βλέπε το, πλέον σπάνιο, Coolermaster Novatouch).
 - **Housing**: Το πλαστικό "περίβλημα" ουσιαστικά μέσα στο οποίο βρίσκεται ο μηχανισμός με το ελατήριο
 

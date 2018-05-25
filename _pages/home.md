@@ -36,7 +36,7 @@ toc_icon: "list"
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## ΕισαγωγήHome
+## Εισαγωγή
 Καλωσήρθατε! Το παρόν αποτελεί τον γενικό οδηγό για τα mechanical keyboards στοχευμένο στην Ελληνική κοινότητα. Μπορεί κανείς να μας βρεί στο *[Facebook group](https://www.facebook.com/groups/892871154152252/)* μας, καθώς και στον MKG Discord Server (*[Invite link](https://discord.gg/rDXezQc)*).
 Στόχος του παρόν οδηγού είναι να παρέχει γενικές πληροφορίες για τα μηχανικά πληκτρολόγια, καθώς και συμβολουλες για αγορά ή custom κατασκευή ενός, στοχευμένα για τους Έλληνες χρήστες.
 

@@ -7,13 +7,12 @@ The purpose of this project is to create an "Information Guide" webpage for the 
 Contributions are more than welcome, however opening an [issue](https://github.com/MechanicalKeyboardsGreece/info-guide/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) (or getting assigned an existing one) is recommended to discuss overall direction and avoid two people working on the same part.
 
 ### Building site
-After `git clone`-ing the project (and assuming Ruby's `Gem` is installed) in your system your need to run
-
+After `git clone`-ing the project (and assuming Ruby's `Gem` is installed) in your system, you need to run:
 ```bash
 gem install bundler
 ```
 
-Then you need to install the required dependencies
+Then you need to install the required dependencies:
 ```bash
 bundle install
 ```

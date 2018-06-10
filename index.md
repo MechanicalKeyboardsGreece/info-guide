@@ -1,25 +1,29 @@
 ---
 layout: single
-title: "Info Guide ver. 0.6.0"
+title: "Info Guide - version 0.6.2"
 toc: true
 toc_label: "Περιεχόμενα"
 toc_icon: "list"
 ---
 
-
 ## Εισαγωγή
 Καλωσήρθατε! Το παρόν αποτελεί τον γενικό οδηγό για τα mechanical keyboards στοχευμένο στην Ελληνική κοινότητα. Μπορεί κανείς να μας βρεί στο *[Facebook group](https://www.facebook.com/groups/892871154152252/)* μας, καθώς και στον MKG Discord Server (*[Invite link](https://discord.gg/rDXezQc)*).
 Στόχος του παρόν οδηγού είναι να παρέχει γενικές πληροφορίες για τα μηχανικά πληκτρολόγια, καθώς και συμβολουλες για αγορά ή custom κατασκευή ενός, στοχευμένα για τους Έλληνες χρήστες.
 
-## Αγορά μηχανικού πληκτρολογίου και parts/accessories
+## Αγορά και parts/accessories
 Για αρχή υπάρχει το [Greek shopping guide](https://www.reddit.com/r/MechanicalKeyboards/wiki/greek_shopping_guide) στην wiki του reddit community [/r/MechanicalKeyboards/](https://www.reddit.com/r/MechanicalKeyboards/).
 Είναι σημαντικό να σημειώσει κανείς πως για αγορές που γίνονται ship απο εκτός Ευρωπαϊκής Ένωσης υπάρχουν συχνά **τέλη/δασμοί εισαγωγής** για τα οποίο μπορείτε να διαβάσετε στην [σχετική ενότητα](#%CE%B1%CF%83%CE%B9%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-eshops--%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%B1%CF%80%CE%BF-%CF%87%CF%8E%CF%81%CE%B5%CF%82-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82). Όπως φαντάζεται κανείς, υπάρχουνε δεκάδες vendors που διαθέτουν μηχανικά πληκτρολόγια και συχνά μάλιστα έχουνε **μόνο** αυτά καθώς και πρόσβαση σε προϊόντα λιγότερο mainstream, αλλά πολύ "δυνατών", κατασκευαστών.
 
 *Για σύντομες & επιφανειακές συμβουλές για πληκτρολόγιο χωρίς ιδιαίτερες ανάγκες δείτε το αμέσως επόμενο section.* Προχωρώντας πιο κάτω μπορείτε να ανακαλύψετε περισσότερα καταστήματα εντός και εκτός Ελλάδας για πληκτρολόγια αλλά και αξεσουάρ ή κομμάτια για κατασκευή ενός keyboard.
 
 ### Γενικές συμβουλές
+Ας υποθέσουμε ότι θες ένα "quick and dirty" intro, τι αξίζει να αγοράσεις και τι είναι καλό value-for-money mechanical keyboard σε γενικές γραμμές. Για τα δεδομένα της ελληνικής/ευρωπαϊκής mainstream αγοράς, και μένωντας σε easy-to-find μάρκες, ισχύουν περίπου τα εξής:
 
-  #WIP
+- **Logitech**: Τα Romer-G switches των μηχανικών τους αφήνουν σχετικά πικρή γεύση στους περισσότερους, ενώ ακόμα και τα Cherry MX lines τους είναι σχετικά overpriced για αυτό που προσφέρουν.
+- **Razer**: Ακόμα μεγαλύτερες τιμές χωρίς ουσιαστικό tradeoff (εκτός κι αν θέλει κανείς *πολύ* το Synapse) ενώ το μόνο keyboard τους με standard layout είναι το *Black Widow X Tournament Edition*, κάτι που κάνει πολύ δύσκολη την αλλαγή keycaps. Τα switches τους απο 2016+ φτιάχνοται απο Greetech και είναι πιο αξιοπρεπή απο τα Kailh προηγούμενων γενιών.
+- **Corsair**: Σε μία παρόμοια κατάσταση με Razer, προσφέρουν καλά Cherry MX switches, σε τιμές όμως δυσανάλογες εκτός αν θέλει κάποιος πολλά physical macro buttons και μεγάλο layout/form-factor. Εάν βρεθούν μεταχειρισμένα <70€ αποτελούν σχετικά καλή επιλογή.
+- **Coolermaster**: Μία αρκετά καλύτερη επιλογή στη τοπική αγορά, παρέχουν standard layouts, Cherry MX switches, [TKL layouts](#μέγεθοςlayout) καθώς και RGB επιλογές, συχνά σε τιμές κάτω των 100€.
+- Others: 
 
 ### Online & μη καταστήματα στην Ελλάδα
 Because paying for shipping sucks.
@@ -48,8 +52,8 @@ Because paying for shipping sucks.
 | MyKeyboard.eu        | <https://mykeyboard.eu/>          | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>*22€ shipping* για Ελλάδα |
 | Overclockers.        | <https://www.overclockers.co.uk/peripherals/keyboards>| KBC, Vortex, Filco, Ducky, Das, Cougar, CoolerMaster |
 | SkinFlint            | <https://skinflint.co.uk/>        | Site σύγκρισης τιμών το οποίο έχει μερικές καλές επιλογές φίλτρων ανά είδος switch κ.α.. Κάνει αναζήτηση σε UK, Γερμανία, Πολωνία & Αυστρία |
-| The Keyboard company | <http://www.keyboardco.com/>      | Ενδιαφέροντα πληκτρολόγια της Filco, Matias & IBM/Unicomp. Εργονομικές επιλογές επίσης.
-| 
+| The Keyboard company | <http://www.keyboardco.com/>      | Ενδιαφέροντα πληκτρολόγια της Filco, Matias & IBM/Unicomp. Εργονομικές επιλογές επίσης. |
+
 
 ### Ασιατικά eshops & Αγορά απο χώρες εκτός Ευρώπης
 ***Προσοχή:*** Παρά τις αμέτρητες φτηνές επιλογές, αγορές ποσού 20€+ είναι πολύ πιθανό να επιφέρουν έξτρα χρεώσεις. Προτείνεται να διαβάσει κανείς [εδώ για τα νέα μέτρα](https://www.angroid.gr/android-tutorials/apostoles-apo-kina-ke-telonio-nea-provlimata-nees-lysis) που ισχύουν απο το καλοκαίρι του 2017, καθώς και την επίσημη σελίδα των **ΕΛΤΑ** για τον εκτελωνισμό [ΕΔΩ](http://www.elta.gr/el-gr/%CE%B9%CE%B4%CE%B9%CF%8E%CF%84%CE%B5%CF%82/%CE%B1%CE%BB%CE%BB%CE%B7%CE%BB%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CE%B4%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/%CE%B5%CE%BA%CF%84%CE%B5%CE%BB%CF%89%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82.aspx). Ακόμη δείτε πληροφορίες για τα **[τέλη/δασμούς εισαγωγής](http://www.elta.gr/Portals/0/pdf/nea_eidika_telh_ektelwnismou_09_08_2017.pdf).**
@@ -116,7 +120,7 @@ Because paying for shipping sucks.
 Μαζί με τα Gateron θεωρούνται τα πιο κοντά ποιοτικά σε Cherry και είναι σαφώς πιο φτηνά. H ποιότητα κατασκευής τους είναι κάπως κατώτερη αλλά αν το budget είναι περιοριστικό είναι semi-decent επιλογές.
 
 #### Kailh
-<#WIF info>.[Εδώ](http://dimlight.org/number9/switches.html) μπορείτε να βρείτε μία πολύ καλή λίστα με αυτά τα νεότερα switch και τις ιδιότητές τους.
+<#WIP info>.[Εδώ](http://dimlight.org/number9/switches.html) μπορείτε να βρείτε μία πολύ καλή λίστα με αυτά τα νεότερα switch και τις ιδιότητές τους.
 
 #### Zealios/Tealios
 Custom-made switches υψηλής ποιότητας που φτιάχνονται απο τον **/u/ZealPC** στον Καναδά. Είναι μία απόπειρα κατασκευής ενός ωραίου tactile switches με διαφανές housing για RGB backlight, pre-lubricated ελατήρια σε διάφορες σκληρότητες και τιμή που δυστυχώς μαρτυρά όλη αυτήν την προσπάθεια.
@@ -135,12 +139,22 @@ Custom-made switches υψηλής ποιότητας που φτιάχνοντα
 Οι υπόλοιποι κατασκευαστές/μάρκες δεν είναι και τόσο διαδεδομένες και δεν συνίστανται συχνά απο τις διάφορες κοινότητες, αλλά πάντα υπάρχουν εξαιρέσεις και modifications για την αίσθηση που αναζητά κάποιος. Ένα πολύ καλό resource για τέτοια "frankenswitches" [βρίσκεται εδώ.](http://www.switchsource.ca/custom-switch-reference-guide).
 Γενικές συγκρίσεις των force curves απο διάφορα switches: https://input.club/the-comparative-guide-to-mechanical-switches/.
 
+## Stabilizers
+
+Τα stabilizers είναι μηχανισμοί που υπάρχουν δίπλα σε switches στα οποία θα τοποθετηθούν μεγαλύτερα keycaps (όπως Spacebar, Enter, Shift κτλ). Ο σκοπός τους είναι να "διαμοιράζουν" την πίεση από το πάτημα των δαχτύλων μας κατά μήκος του keycap ώστε το ίδιο να μην μετακινηθεί, δημιουργήσει μη-ευχάριστη εμπειρία ή βγεί από το switch του.
+
+![Image cannot be displayed][cherryStabilizer]
+*Source: [https://deskthority.net/wiki/Stabiliser](https://deskthority.net/wiki/Stabiliser)*
+
+- **Cherry-style**:
+- **Corsair-style**:
+
 ## Μέγεθος/Layout
 Το "κλασσικό" μέγεθος του πλήρους πληκτρολογίου ονομάζεται συχνά *"100%"* και έχει 2 κοντινά αλλά πολύ αυστηρά **standards** για το μέγεθος και την θέση του κάθε πλήκτρου:
 
 ![Image cannot be displayed][ISOvsANSI]
 
-Το να είναι το layout ενός board ANSI ή ISO standard (ή υποσύνολο του standard όπως 80% ή 60%) κάνει πολύ πιο εύκολη την εύρεση Keycaps για αυτό στην περίπτωση που θέλουμε να του βάλουμε καλύτερα/πιο όμορφα ή για όταν κάνουμε build ένα keyboard απο το 0. Ειδικά το bottom row είναι κάτι που πολλές εταιρείες αλλάζουν (πχ μικρότερο windows key) και αυτό θέλει προσοχή, ειδικά όταν δεν προσφέρει κάποιο ιδιαίτερο θετικό στην χρήση ή το μέγεθός του.
+Το να είναι το layout ενός board ANSI ή ISO standard (ή υποσύνολο του standard όπως 80% ή 60%) κάνει πολύ πιο εύκολη την εύρεση Keycaps για αυτό στην περίπτωση που θέλουμε να του βάλουμε καλύτερα/πιο όμορφα ή για όταν κάνουμε build ένα keyboard απο το 0. Ειδικά το bottom row είναι κάτι που πολλές εταιρείες αλλάζουν (πχ μικρότερο windows key) και αυτό θέλει προσοχή, ειδικά όταν δεν προσφέρει κάποιο ιδιαίτερο θετικό στην χρήση ή το μέγεθός του, και αυτό το καθιστά άσκοπη "θυσία."
 
 
 ![Image cannot be displayed][subsetsANSI]
@@ -154,7 +168,7 @@ Custom-made switches υψηλής ποιότητας που φτιάχνοντα
 
 ## Keycaps
 Είναι ουσιαστικά τα *κουμπιά/καπάκια* που ουσιαστικά τοποθετούνται πάνω στους μηχανισμούς ώστε να πατιούνται απο τον χρήστη *(αντί να πατάει πάνω στο [+ stem](http://mechanicalkeyboards.com/shop/images/products/large_100_MX1A-E1NN.jpg) σαν μαζοχιστής)*. Πολλοί τα θεωρούν κάπως "δευτερεύον" κομμάτι του keyboard customization αλλά η αλήθεια είναι πως, πέραν της αισθητικής επιλογής, παίζουν σημαντικό ρόλο και στην αίσθηση/εμπειρία χρήσης.
-Είναι σημαντικό να θυμάται κανείς πως δεν ακολουθούν όλα τα πληκτρολόγια "standard" μεγέθη για τα keycaps και τις αποστάσεις των switches τους οπότε χρειάζεται προσοχή και αξίζει κανείς να δει το [σχετικό section για τα layouts](#%CE%BC%CE%AD%CE%B3%CE%B5%CE%B8%CE%BF%CF%82layout).
+Είναι σημαντικό να θυμάται κανείς πως δεν ακολουθούν όλα τα πληκτρολόγια "standard" μεγέθη για τα keycaps και τις αποστάσεις των switches τους οπότε χρειάζεται προσοχή και αξίζει κανείς να δει το [σχετικό section για τα layouts](#μέγεθοςlayout).
 
 Σημαντικές ιδιότητές τους όταν θέλει να τα αλλάξει κανείς είναι το **υλικό** και το **profile** τους.
 - **Υλικό**: #WIP
@@ -178,3 +192,4 @@ Custom-made switches υψηλής ποιότητας που φτιάχνοντα
 [subsetsANSI]: https://i.imgur.com/f00eq7K.jpg "ANSI standard και υποσύνολά του"
 [membraneKeyboard]: https://upload.wikimedia.org/wikipedia/commons/6/6e/Membrane_keyboard.jpg "Πληκτρολόγιο μεμβράνης"
 [mechanicalSwitch]: https://upload.wikimedia.org/wikipedia/commons/4/45/Cherry_MX_--_opened%2C_2.jpg "Μηχανικός διακόπτης"
+[cherryStabilizer]: https://deskthority.net/w/images/d/d6/Cherry_G80-3000_--_right_shift_with_levelling_mechanism.jpg "Μοντέρνο Cherry-style stabilizer"

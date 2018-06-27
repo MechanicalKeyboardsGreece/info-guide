@@ -26,10 +26,11 @@ toc_icon: "list"
 
 - **Leopold**: Minimal design, χωρίς backlight, εξαιρετική ποιότητα κατασκευής/keycaps και επιλογές layouts, Cherry MX switches στα ~120ευ.
 - **Varmilo**: Standard layouts, *πολλές* επιλογές σε switches & στα υπέροχα keycaps τους. Διατίθεται και σαν kits σε μερικά καταστήματα.
+- **Ducky**: PBT keycaps, backlighting/RGB, standard layouts. Overall πολύ καλά features.
 
 > Πολύ καλά
 
-- **Coolermaster**: Standard layouts, Cherry MX switches, [TKL layouts](#μέγεθοςlayout) καθώς και **δυνατό RGB**, συχνά σε τιμές κάτω των 100€.
+- **Coolermaster**: Standard layouts, Cherry MX switches, [TKL layouts](#μέγεθοςlayout) καθώς και **δυνατό RGB**, συχνά σε τιμές κάτω των 100€. Δυστυχώς έχουνε μέτρια keycaps.
 - **Vortex/iKBC**: Με την πολύ καλή σειρά **Poker** ([60%](#megethosLayout)), αλλά τα στιβαρά RGB TKL/Full-sized μοντέλα τους (F87/MF87/F108/MF108).
 
 > Όχι κάτι τρελό...

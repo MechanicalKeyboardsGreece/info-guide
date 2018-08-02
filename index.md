@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Info Guide - version 0.6.5"
+title: "Info Guide - version 0.6.6"
 toc: true
 toc_label: "Περιεχόμενα"
 toc_icon: "list"
@@ -47,7 +47,7 @@ Because paying for shipping sucks.
 | :-------------: | :-------------            | :----- |
 | Skroutz         | <https://www.skroutz.gr/>   | Δημοφιλέστατο shop aggregator που συλλέγει τιμές για προϊόντα τεχνολογίας και μη απο *πολλά* καταστήματα στην Ελλάδα |
 | Bestprice       | <https://www.bestprice.gr/> | Άλλο ένα site σύγκρισης τιμών. Περιλαμβάνει ορισμένα καταστήματα που δεν υπάρχουν στο skroutz, όπως και το skroutz έχει κάποια που δεν είναι εδώ.
-| Kalkantzakos    | <https://www.kalkantzakos.com> | Hardware shop για outdoor hobbies με βαφές κτλ. που διαθέτει [Superlube][https://www.kalkantzakos.com/Product/80/super-lube-3oz-sunthetiko-grasso-] λιπαντικό, το οποίο είναι πολύ καλό για stabilizers.
+| Kalkantzakos    | <https://www.kalkantzakos.com> | Hardware shop για outdoor hobbies με βαφές κτλ. που διαθέτει [Superlube](https://www.kalkantzakos.com/Product/80/super-lube-3oz-sunthetiko-grasso-) λιπαντικό, το οποίο είναι πολύ καλό για stabilizers.
 
 ### Ευρωπαϊκά eshops με αρκετά λογικά μεταφορικά
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Info Guide - version 0.6.4"
+title: "Info Guide - version 0.6.5"
 toc: true
 toc_label: "Περιεχόμενα"
 toc_icon: "list"
@@ -18,7 +18,7 @@ toc_icon: "list"
 
 *Για σύντομες & επιφανειακές συμβουλές για πληκτρολόγιο χωρίς ιδιαίτερες ανάγκες δείτε το αμέσως επόμενο section.* Προχωρώντας πιο κάτω μπορείτε να ανακαλύψετε περισσότερα καταστήματα εντός και εκτός Ελλάδας για πληκτρολόγια αλλά και αξεσουάρ ή κομμάτια για κατασκευή ενός keyboard.
 
-### Εν συντομία...
+### Εν συντομία
 
 Ας υποθέσουμε ότι θες ένα "quick and dirty" intro, τι αξίζει να αγοράσεις και τι είναι καλό value-for-money mechanical keyboard σε γενικές γραμμές. Για τα δεδομένα της ελληνικής/ευρωπαϊκής mainstream αγοράς, και μένωντας σε κοινές μάρκες, ισχύουν περίπου τα εξής:
 
@@ -229,7 +229,9 @@ Custom-made switches υψηλής ποιότητας που φτιάχνοντα
 - [Stabilizer clipping για καλύτερη αίσθηση στο bottom-out](https://www.youtube.com/watch?v=C6hPoe3srcw)
 - [Stabilizer lubing για λιγότερο θόρυβο και πιο ομαλή λειτουργία τους](https://www.youtube.com/watch?v=oWgrnQGBBn4)
 
-
+<!-------------------------------------->
+<!-- EXTERNAL IMAGE RESOURCES GO HERE -->
+<!-------------------------------------->
 
 [ISOvsANSI]: http://www.keybotypo.com/wp-content/uploads/2016/09/ISO-vs-ANSI-min.png "ISO vs ANSI standards"
 [subsetsANSI]: https://i.imgur.com/f00eq7K.jpg "ANSI standard και υποσύνολά του"

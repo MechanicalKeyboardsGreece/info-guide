@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Info Guide - version 0.6.9"
+title: "Info Guide - version 0.6.10"
 toc: true
 toc_label: "Περιεχόμενα"
 toc_icon: "list"
@@ -17,9 +17,9 @@ toc_icon: "list"
 Είναι σημαντικό να σημειώσει κανείς πως για αγορές που γίνονται ship απο εκτός Ευρωπαϊκής Ένωσης υπάρχουν συχνά **τέλη/δασμοί εισαγωγής** για τα οποίο μπορείτε να διαβάσετε στην [σχετική ενότητα](#%CE%B1%CF%83%CE%B9%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-eshops--%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%B1%CF%80%CE%BF-%CF%87%CF%8E%CF%81%CE%B5%CF%82-%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82).  
 Όπως φαντάζεται κανείς, υπάρχουνε δεκάδες vendors που διαθέτουν μηχανικά πληκτρολόγια και συχνά μάλιστα έχουνε _μόνο αυτά_ καθώς και πρόσβαση σε προϊόντα λιγότερο mainstream, αλλά πολύ "δυνατών", κατασκευαστών.
 
-*Για σύντομες & επιφανειακές συμβουλές για πληκτρολόγιο χωρίς ιδιαίτερες ανάγκες δείτε το αμέσως επόμενο section.*
+_Για σύντομες & επιφανειακές συμβουλές για πληκτρολόγιο χωρίς ιδιαίτερες ανάγκες δείτε το αμέσως επόμενο section._
 
-Προχωρώντας πιο κάτω μπορείτε να ανακαλύψετε περισσότερα καταστήματα εντός και εκτός Ελλάδας για πληκτρολόγια αλλά και αξεσουάρ ή κομμάτια για κατασκευή ενός keyboard.
+Προχωρώντας πιο κάτω μπορείτε να ανακαλύψετε περισσότερα καταστήματα εντός και εκτός Ελλάδας για πληκτρολόγια αλλά και αξεσουάρ ή κομμάτια για κατασκευή ενός keyboard. Να σημειωθεί πως όποιες τιμές αναφέρονται είναι **ενδεικτικές** και ίσως αλλάξουν ή έχουν ήδη αλλάξει. <sup><sup>_Pull Requests welcome_</sup></sup>
 
 ### Εν συντομία
 
@@ -40,41 +40,50 @@ toc_icon: "list"
 
 Because paying for shipping sucks.
 
-| Κατάστημα       | Σύνδεσμος                 | Σχόλια |
-| :-------------: | :-------------            | :----- |
-| Skroutz         | <https://www.skroutz.gr/>   | Δημοφιλέστατο shop aggregator που συλλέγει τιμές για προϊόντα τεχνολογίας και μη απο *πολλά* καταστήματα στην Ελλάδα |
-| Bestprice       | <https://www.bestprice.gr/> | Άλλο ένα site σύγκρισης τιμών. Περιλαμβάνει ορισμένα καταστήματα που δεν υπάρχουν στο skroutz, όπως και το skroutz έχει κάποια που δεν είναι εδώ.
-| Kalkantzakos    | <https://www.kalkantzakos.com> | Hardware shop για outdoor hobbies με βαφές κτλ. που διαθέτει [Superlube](https://www.kalkantzakos.com/Product/80/super-lube-3oz-sunthetiko-grasso-) λιπαντικό, το οποίο είναι πολύ καλό για stabilizers.
+| Κατάστημα          | Σύνδεσμος                                   | Σχόλια                                                                                                                                                                                                   |
+| :-------------:    | :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Skroutz            | <https://www.skroutz.gr/>                   | Δημοφιλέστατο shop aggregator που συλλέγει τιμές για προϊόντα τεχνολογίας και μη απο *πολλά* καταστήματα στην Ελλάδα. |
+| Bestprice          | <https://www.bestprice.gr/>                 | Άλλο ένα site σύγκρισης τιμών.<br>Περιλαμβάνει ορισμένα καταστήματα που δεν υπάρχουν στο skroutz, όπως και το skroutz έχει κάποια που δεν είναι εδώ. |
+| Kalkantzakos       | <https://www.kalkantzakos.com/>             | Hardware shop για outdoor hobbies με βαφές κτλ. που διαθέτει [Superlube](https://www.kalkantzakos.com/Product/80/super-lube-3oz-sunthetiko-grasso-) λιπαντικό, το οποίο είναι πολύ καλό για stabilizers. |
+| Lab35              | <http://www.artlab35.gr/>                   | Μικρό κατάστημα στο Ηράκλειο Κρήτης με κοπή και χάραξη ξύλου/Plexiglass/PVC. |
+| Electro-Nick’s Lab | <https://www.facebook.com/ElectronicksLab/> | 3D printing, CNC, κοπή CO2 laser, CAD design <br> FDA printed keycap ~1€ SLA printed keycap ~5€ Κοπή 10mm ακρυλικό για 8x7 switch tester ~5€ |
+| Laserworks         | <https://www.laserworks.gr/>                | Laser cutting<br>3mm ακρυλικό plate για tada68 ~20€ |
+| SteelMax energy    | <http://www.steelmaxenergy.com/>            | Κοπές μετάλλου με Laser. Εξυπηρετικοί με αναλυτικό τιμοκατάλογο. Μόνο κοπή, όχι χάραξη.<br>3mm Stainless Steel plate για tada68 €17.50 + ΦΠΑ |
+| Σταφυλαράκης       | <https://www.stafilarakis.gr/>              | Ηλεκτροστατική βαφή, υδροκοπή, κοπή λέιζερ<br>Υδροκοπη tada68 plate ~€30 + ΦΠΑ |
+| Grobotronics       | <https://grobotronics.com/>                 | Solder & stations, LEDs, hardware (βίδες κλπ). Ελληνικό κατάστημα που φέρνει όλα τα προϊόντα του <https://gr.mouser.com/> |
+| Ανδρέου Ι.Κ.Ε.     | <https://andreou.gr/>                       | Ρητίνες, υφάσματα, ανθρακόνημα & Kevlar, κλπ.<br>Υλικά για κατασκευή resin keycaps(Π.χ. με χρήση [:~$ynth](https://techkeys.us/products/synth)), Carbon Fiber κ.α. |
 
 ### Ευρωπαϊκά eshops με αρκετά λογικά μεταφορικά
 
 Τα online καταστήματα εκτός Ελλάδος θα χρεώσουν κάποια τιμή για μεταφορικά έξοδα (shipping) όμως σε καμία περίπτωση δεν θα επιβάλλουν έξτρα φόρους ή τέλη εισαγωγής. Η ταχύτητα άφιξης είναι επίσης ταχύτερη απο vendors σε Αμερική/Ασία όχι μόνο λόγω γεωγραφικής διαφοράς αλλά και λόγω μη συμμετοχής του τελωνείου στην διαδικασία.
 
-| Κατάστημα            | Σύνδεσμος                       | Σχόλια |
-| :------------------: | :-------------                  | :----- |
+| Κατάστημα            | Σύνδεσμος                      | Σχόλια |
+| :------------------: | :----------------------------- | :----- |
 | Amazon               | <https://www.amazon.co.uk/> *(+ .de, .fr, .it, .nl, .es)* | Παρά την "ανειδίκευτη" φύση του, βρίσκουμε εδώ καλά brands όπως Vortex, iKBC, Filco, Matias, CoolerMaster, Qisan, Tesoro, Das, Anne Pro, κτλ. Επίσης προτείνονται τα εξής sites για σύγκριση τιμών: (https://uk.camelcamelcamel.com/, https://de.camelcamelcamel.com/, https://it.camelcamelcamel.com/, https://es.camelcamelcamel.com/, https://fr.camelcamelcamel.com/) |
-| Candykeys            | <https://www.candykeys.com/>      | Παρέχει πληκτρολόγια Vortex, Leopold, KBP, Anne Pro, keycap sets (ISO + ANSI) και άλλα κομμάτια.  Based in Germany, ships to EU. |
-| Caps-Unlocked        | <https://caps-unlocked.com/>      | Πληκτρολόγια, keycaps, κομμάτια αλλά και Group Buys |
-| CCLonline            | <https://www.cclonline.com/>      | Ducky, Coolermaster και άλλα, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω των 50 £* |
-| Cool Cable           | <https://www.coolcable.co.uk/>    | Custom cables από UK
-| falba.tech           | <https://falba.tech/>             | Custom wooden bamboo cases, and some acrylic and carbon ones. Switch packs (65 browns at 48EUR). Other parts for the GH60, Atreus, ErgoDox. Also Microcontrollers, diodes, leds etc. |
-| GetDigital           | <https://www.getdigital.de/>      | Γρήγορο shipping, αξιοπρεπείς τιμές. Παρέχει Das, Ducky, Filco, Matias keyboards καθώς και ορισμένα keycaps |
-| mechboards           | <https://mechboards.co.uk/>       | Switches, Keycaps, Cases, Plates, DIY Kits, parts and GBs |
-| mechbox              | <https://www.mechbox.co.uk/>      | Keycaps, κομμάτια, εργαλεία, **πολλά switches** συμπεριλαμβανομένων κάποιων λιγότερο κοινών (MOD, Zealios, Aristotles etc.) καθώς βάσεις για tester kits. |
-| MechSupply           | <http://www.mechsupply.co.uk/>    | Keycaps και kits για ISO-UK layouts. Plates, switches και Group buys επίσης. |
-| Mind Factory         | <https://www.mindfactory.de/>     | Cherry MX πληκτρολόγια, <br/>*32€ shipping* |
-| MyKeyboard           | <https://mykeyboard.eu/>          | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>~~22€ shipping για Ελλάδα~~ Σε μικρά πακέτα γίνεται shipping απο 3€ |
-| Overclockers         | <https://www.overclockers.co.uk/peripherals/keyboards>| KBC, Vortex, Filco, Ducky, Das, Cougar, CoolerMaster |
-| SkinFlint            | <https://skinflint.co.uk/>        | Site σύγκρισης τιμών το οποίο έχει μερικές καλές επιλογές φίλτρων ανά είδος switch κ.α.. Κάνει αναζήτηση σε UK, Γερμανία, Πολωνία & Αυστρία |
-| The Keyboard company | <http://www.keyboardco.com/>      | Ενδιαφέροντα πληκτρολόγια της Filco, Matias & IBM/Unicomp. Εργονομικές επιλογές επίσης. |
+| Candykeys            | <https://www.candykeys.com/>   | Παρέχει πληκτρολόγια Vortex, Leopold, KBP, Anne Pro, keycap sets (ISO + ANSI) και άλλα κομμάτια.  Based in Germany, ships to EU. |
+| Caps-Unlocked        | <https://caps-unlocked.com/>   | Πληκτρολόγια, keycaps, κομμάτια αλλά και Group Buys |
+| CCLonline            | <https://www.cclonline.com/>   | Ducky, Coolermaster και άλλα, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω των 50 £* |
+| Cool Cable           | <https://www.coolcable.co.uk/> | Custom cables από UK
+| falba.tech           | <https://falba.tech/>          | Custom wooden bamboo cases, and some acrylic and carbon ones. Switch packs (65 browns at 48EUR). Other parts for the GH60, Atreus, ErgoDox. Also Microcontrollers, diodes, leds etc. |
+| GetDigital           | <https://www.getdigital.de/>   | Γρήγορο shipping, αξιοπρεπείς τιμές. Παρέχει Das, Ducky, Filco, Matias keyboards καθώς και ορισμένα keycaps |
+| Hobby King           | <https://hobbyking.com/>       | Έτοιμα κομμάτια ανθρακονηματος, αποθήκη στην Ευρώπη. Πολύ πιο οικονομικός από ελληνικά καταστήματα.<br>300 x400 x1.5mm φύλλο €27.67 + μεταφορικά
+| mechboards           | <https://mechboards.co.uk/>    | Switches, Keycaps, Cases, Plates, DIY Kits, parts and GBs |
+| mechbox              | <https://www.mechbox.co.uk/>   | Keycaps, κομμάτια, εργαλεία, **πολλά switches** συμπεριλαμβανομένων κάποιων λιγότερο κοινών (MOD, Zealios, Aristotles etc.) καθώς βάσεις για tester kits. |
+| MechSupply           | <http://www.mechsupply.co.uk/> | Keycaps και kits για ISO-UK layouts. Plates, switches και Group buys επίσης. |
+| Mind Factory         | <https://www.mindfactory.de/>  | Cherry MX πληκτρολόγια, <br/>*32€ shipping* |
+| MyKeyboard           | <https://mykeyboard.eu/>       | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>~~22€ shipping για Ελλάδα~~ Σε μικρά πακέτα γίνεται shipping απο 3€ |
+| Overclockers         | <https://www.overclockers.co.uk/peripherals/keyboards> | KBC, Vortex, Filco, Ducky, Das, Cougar, CoolerMaster |
+| SkinFlint            | <https://skinflint.co.uk/>     | Site σύγκρισης τιμών το οποίο έχει μερικές καλές επιλογές φίλτρων ανά είδος switch κ.α.. Κάνει αναζήτηση σε UK, Γερμανία, Πολωνία & Αυστρία |
+| The Keyboard company | <http://www.keyboardco.com/>   | Ενδιαφέροντα πληκτρολόγια της Filco, Matias & IBM/Unicomp. Εργονομικές επιλογές επίσης. |
 
-### Ασιατικά eshops & Αγορά απο χώρες εκτός Ευρώπης
+### Eshops απο Ασία & χώρες εκτός Ευρώπης
 
 ***Προσοχή:*** Παρά τις αμέτρητες φτηνές επιλογές, αγορές ποσού 20€+ είναι πολύ πιθανό να επιφέρουν έξτρα χρεώσεις. Προτείνεται να διαβάσει κανείς [εδώ για τα νέα μέτρα](https://www.angroid.gr/android-tutorials/apostoles-apo-kina-ke-telonio-nea-provlimata-nees-lysis) που ισχύουν απο το καλοκαίρι του 2017, καθώς και την επίσημη σελίδα των **ΕΛΤΑ** για τον εκτελωνισμό [ΕΔΩ](http://www.elta.gr/el-gr/%CE%B9%CE%B4%CE%B9%CF%8E%CF%84%CE%B5%CF%82/%CE%B1%CE%BB%CE%BB%CE%B7%CE%BB%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CE%B4%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/%CE%B5%CE%BA%CF%84%CE%B5%CE%BB%CF%89%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82.aspx). Ακόμη δείτε πληροφορίες για τα **[τέλη/δασμούς εισαγωγής](http://www.elta.gr/Portals/0/pdf/nea_eidika_telh_ektelwnismou_09_08_2017.pdf).**
 
 | Κατάστημα       | Σύνδεσμος                     | Σχόλια |
 | :-------------: | :-------------                | :----- |
 | Aliexpress      | <https://www.aliexpress.com/> | Απο τα μεγαλύτερα eshops παγκοσμίως, με πολύ εύκολο refunding και σχεδόν κανένα πρόβλημα με γλώσσα. |
+| Arrow           | <https://www.arrow.com/>      | Από microcontrollers, σε USB ports για custom καλώδια, μέχρι mx black vintage switches. Προσφέρει *ΔΩΡΕΑΝ FedEx priority shipping*. Αγορές άνω των €22 περνάνε τελωνείο αλλά η  αγορά μπορεί να σπαστεί σε μικρότερες |
 | Banggood        | <https://www.banggood.com/>   | Λιγότερο ποιοτικές επιλογές, αλλά σίγουρα valid. Συχνά έχει coupons για το δημοφιλές Anne Pro |
 | GearBest        | <https://www.gearbest.com/>   |  |
 | KBDFans Store   | <http://kbdfans.cn/>          | Εξαιρετικός vendor με καλές τιμές και ποικιλία σε keyboards, keycaps, switches, parts και ακόμη και Group Buys για high-end επιλογές.
@@ -229,12 +238,16 @@ Custom-made switches υψηλής ποιότητας που φτιάχνοντα
 - **High/Low-profile**: #WIP
 - **Γωνία**: Θετική γωνία/angle <X μοίρες> έχουμε όταν το πίσω μέρος (F keys row) είναι ανασηκωμένο, κάτι που κάνει ένα πληκτρολόγιο πιο βολικό για casual χρήση ίσως. Παρόλα αυτά θεωρείται πολύ πιο σωστό εργονομικά να μην υπάρχει γωνία (δηλαδή να είναι παράλληλο με το γραφείο το case) και πιο χαμηλά απο τους αγκώνες ώστε τα χέρια να "κρέμονται" απο τους καρπούς επάνω στα πλήκτρα.
 
-## <a name="xrhsimaLinks">Χρήσιμα links</a>
+## Χρήσιμα links
 
 - [Force Charts για τις ιδιότητες πολλών switches](https://plot.ly/~haata#/)
 - [Ανεξάρτητος πωλητής για *original* Cherry Stabilizers στην Ευρώπη](https://www.reddit.com/r/mechmarket/comments/86dc4h/eudehgenuine_cherry_stabilizers_lube_wpaypal/) (Discord: `faxe#7287`)
 - [Stabilizer clipping για καλύτερη αίσθηση στο bottom-out](https://www.youtube.com/watch?v=C6hPoe3srcw)
 - [Stabilizer lubing για λιγότερο θόρυβο και πιο ομαλή λειτουργία τους](https://www.youtube.com/watch?v=oWgrnQGBBn4)
+
+## Further credits
+
+- *George Karathanasopoulos*: Πηγές για κατασκευές με ανθρακόνημα, controllers κτλ. Διαθέσιμος μέσω Discord PM (`SomeGreekGuy#0948`) για απορίες/βοήθεια για κατασκευές.
 
 <!-------------------------------------->
 <!-- EXTERNAL IMAGE RESOURCES GO HERE -->

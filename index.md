@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Info Guide - version 0.6.10"
+title: "Info Guide - version 0.6.11"
 toc: true
 toc_label: "Περιεχόμενα"
 toc_icon: "list"

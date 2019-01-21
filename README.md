@@ -23,7 +23,7 @@ Then, you need to install the required dependencies:
 bundle install
 ```
 
-Finally, you can build and run the site locally @ `http://127.0.0.1:4000/info-guide/` so as to work on and review changes before commiting.
+Finally, you can build and run the site locally @ `http://127.0.0.1:4000/info-guide/` so as to work on and review changes before commiting:
 
 ```bash
 bundle exec jekyll serve
